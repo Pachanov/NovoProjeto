@@ -1,5 +1,5 @@
 # NovoProjeto!
 
-Um novo projeto para nao perder a costume.
+Um novo projeto para não perder a costume.
 
  
